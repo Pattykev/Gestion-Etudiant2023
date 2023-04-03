@@ -1,0 +1,22 @@
+C:\Users\CSEG\Desktop\GestionEtudiant\GestionEtudiant\bin\Debug\GestionEtudiant.exe
+C:\Users\CSEG\Desktop\GestionEtudiant\GestionEtudiant\bin\Debug\GestionEtudiant.pdb
+C:\Users\CSEG\Desktop\GestionEtudiant\GestionEtudiant\obj\x86\Debug\GestionEtudiant.Form1.resources
+C:\Users\CSEG\Desktop\GestionEtudiant\GestionEtudiant\obj\x86\Debug\GestionEtudiant.FormAjoutNote.resources
+C:\Users\CSEG\Desktop\GestionEtudiant\GestionEtudiant\obj\x86\Debug\GestionEtudiant.FormMatiere.resources
+C:\Users\CSEG\Desktop\GestionEtudiant\GestionEtudiant\obj\x86\Debug\GestionEtudiant.FormulairePrincipale.resources
+C:\Users\CSEG\Desktop\GestionEtudiant\GestionEtudiant\obj\x86\Debug\GestionEtudiant.Properties.Resources.resources
+C:\Users\CSEG\Desktop\GestionEtudiant\GestionEtudiant\obj\x86\Debug\GestionEtudiant.csproj.GenerateResource.Cache
+C:\Users\CSEG\Desktop\GestionEtudiant\GestionEtudiant\obj\x86\Debug\GestionEtudiant.exe
+C:\Users\CSEG\Desktop\GestionEtudiant\GestionEtudiant\obj\x86\Debug\GestionEtudiant.pdb
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\obj\x86\Debug\GestionEtudiant.exe
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\obj\x86\Debug\GestionEtudiant.pdb
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\bin\Debug\GestionEtudiant.exe
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\bin\Debug\GestionEtudiant.pdb
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\obj\x86\Debug\GestionEtudiant.Form1.resources
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\obj\x86\Debug\GestionEtudiant.FormAjoutNote.resources
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\obj\x86\Debug\GestionEtudiant.FormMatiere.resources
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\obj\x86\Debug\GestionEtudiant.FormulairePrincipale.resources
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\obj\x86\Debug\GestionEtudiant.Properties.Resources.resources
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\obj\x86\Debug\GestionEtudiant.csproj.GenerateResource.Cache
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\obj\x86\Debug\GestionEtudiant.rapportNote.resources
+C:\Users\CSEG\Desktop\TCHINGUE_MAKAMTE_PATRICIA_KEVINE GL3\GestionEtudiant\obj\x86\Debug\GestionEtudiant.csprojResolveAssemblyReference.cache
